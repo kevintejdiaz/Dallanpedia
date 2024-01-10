@@ -29,7 +29,10 @@ body{
     padding: 0;
     margin: 0;
 }
-
+.peke{
+    margin-left: 3%;
+    margin-right: 26%;
+}
 
 
 a{
@@ -66,9 +69,18 @@ a{
     padding: 0 15px;
     margin: auto;
 }
-
+.gris{
+    background-color:#fff8e4;
+}
 .img-fluid{
     width: 100%;
+}
+.fotocasa{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
 }
 .termostato{
     width: 70%;
